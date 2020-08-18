@@ -17,7 +17,7 @@
 	</group>
 	<group id="4" name="gamemaster" access="1" maxdepotitems="0" maxvipentries="200">
 		<flags>
-			<flag cannotusecombat="1" /> <!-- Is combat not allowed? Set to 0 to enable the two flags below. If set to 1 these two flags below will be ignored. -->
+			<flag cannotusecombat="1" /> <!-- Testing Is combat not allowed? Set to 0 to enable the two flags below. If set to 1 these two flags below will be ignored. -->
 			<flag cannotattackplayer="1" /> <!-- If combat is allowed (set to 0 above), attack players is not allowed? -->
 			<flag cannotattackmonster="1" /> <!-- If combat is allowed (set to 0 above), attack monsters is not allowed? -->
 			<flag cannotbeattacked="1" />
